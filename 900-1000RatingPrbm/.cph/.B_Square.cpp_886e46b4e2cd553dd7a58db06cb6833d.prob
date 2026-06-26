@@ -1,0 +1,1 @@
+{"name":"Local: B_Square","url":"d:\\codeForces c++\\900-1000RatingPrbm\\B_Square.cpp","tests":[{"id":1755098794629,"input":"3\n2 3\n3 1\n3 2\n1 3\n3 3\n1 3\n","output":"Yes\nYes\nNo\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeForces c++\\900-1000RatingPrbm\\B_Square.cpp","group":"local","local":true}

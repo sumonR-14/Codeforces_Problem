@@ -1,0 +1,1 @@
+{"name":"Local: Games","url":"d:\\codeForces c++\\800ratingPROBLEM\\Games.cpp","tests":[{"id":1752716411507,"input":"7\n4 7\n52 55\n16 4\n55 4\n20 99\n3 4\n7 52\n","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeForces c++\\800ratingPROBLEM\\Games.cpp","group":"local","local":true}
