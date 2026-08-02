@@ -9,7 +9,7 @@ int main() {
         c.push_back(b);
         if(b==a) break;
         if(b%2 ==0) b /=2;
-        else if( b%2 == 1) b /= 10;
+        else if( b%10 == 1) b /= 10;
         else break;
     }
     if(b != a){
